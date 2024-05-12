@@ -90,6 +90,11 @@
     scroll-behavior: smooth;
   }
 }
+.img2 {
+  width: 60px;
+  height: 40px;
+  object-fit: cover;
+}
 
 body {
   margin: 0;
@@ -836,6 +841,7 @@ progress {
 .gx-0 {
   --bs-gutter-x: 0;
 }
+
 
 .g-0,
 .gy-0 {
